@@ -6,3 +6,5 @@ Shield by shield
 
 And lets add new couplet!
 And another one!
+
+Adding third couplet to create Merge conflict
